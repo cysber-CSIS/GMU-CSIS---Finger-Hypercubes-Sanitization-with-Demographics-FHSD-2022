@@ -50,12 +50,17 @@ All the the rights of the FHSD are reserved and the commercial use of this datab
 Citation:
 </h3>
 
+'''
+
 @INPROCEEDINGS{FHSD,
   author={Sriram Sai Sumanth, Emanuela Marasco},
   booktitle={2022 26th International Conference on Pattern Recognition (ICPR)}, 
   title={A Novel Demographic-based  Time-Series Database of Finger Hypercubes before and after Hand Sanitization }, 
   year={2022}
   }
+
+'''
+
 
 
 
