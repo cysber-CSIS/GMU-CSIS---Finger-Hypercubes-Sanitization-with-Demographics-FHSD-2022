@@ -43,7 +43,19 @@ The database will be made avilable to the researchers once they sign and send th
 Sai Sumanth Sriram: ssriram2@gmu.edu
 Dr.Emanuela Marasco: emarasco@gmu.edu
 
-All the the rights of the FHSD are reserved and the commercial use of this database is dtrictly prohibited. 
+All the the rights of the FHSD are reserved and the commercial use of this database is dtrictly prohibited. Question regarding this database should be directed to the authors. Any research proceedings using this database must be acknowledged.
+
+
+<h3>
+Citation:
+</h3>
+
+@INPROCEEDINGS{FHSD,
+  author={Sriram Sai Sumanth, Emanuela Marasco},
+  booktitle={2022 26th International Conference on Pattern Recognition (ICPR)}, 
+  title={A Novel Demographic-based  Time-Series Database of Finger Hypercubes before and after Hand Sanitization }, 
+  year={2022}
+  }
 
 
 
