@@ -15,6 +15,7 @@ In this data collection, each finger hyperube at an instance is collected three 
 <p align="center">
 
 <img src="https://user-images.githubusercontent.com/110630365/182932416-b87d0b0e-9f8b-4c9d-9e74-1b08bfbb0ddd.png" width=800>
+
 Figure 1: The 6 hypercubes collected before hand sanitization, (a) 3 hypercubes from the left index finger before the hand sanitizer is applied, (b) 3 hypercubes from the right index finger before the hand sanitizer is applied.
 </p>
 
