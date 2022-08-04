@@ -13,15 +13,4 @@ For each subject, six hypercubes (3 per finger) are collected from the left and 
 In this data collection, each finger hyperube at an instance is collected three times to better understand the spectral variations at each instance. To study demographic biases, the demographic data was also collected from the subjects via an in-person paper survey. For this collection, we used Purell hand sanitizer containing 70% ethanol, manufactured by GOJO, and subjects applied a single pump of hand sanitizer, approximately 3 ml of this product once the six hypercubes were collected before hand sanitization. Few sample examples of the hypercubes collected before and after hand sanitization are as follows,
 The summary of the dataset is shown in the table below
 
-font-size: 0.75cm;
-Acquisition	Finger	Time (in minutes)	Number of Datacubes 
-Before Sanitizatiom	Left Index	 	300
-	Right Index		300
-After Sanitizatiom	Left Index	1	300
-		10	300
-		25	300
-	Right Index	1	300
-		10	300
-		25	300
- 	 	Total No. of Datacubes	2400
-![image](https://user-images.githubusercontent.com/110630365/182930022-08d5d6ee-daac-4616-b8da-8b88007592ba.png)
+![image](https://user-images.githubusercontent.com/110630365/182931386-1eb1e77a-6d6a-4a66-b3c9-0e700e1d0912.png)
