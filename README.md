@@ -30,5 +30,11 @@ Figure 2: The 18 hypercubes, 6 collected at each instance from the left (L) and 
 
 **The summary of the dataset is shown in the table below**
 
-<img width="921" alt="image" src="https://user-images.githubusercontent.com/110630365/182931645-f5ff2618-01a2-4498-ba3e-ecf00a236784.png">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/110630365/182931645-f5ff2618-01a2-4498-ba3e-ecf00a236784.png" width=800>
+  
+</p>
+
+
+
 
