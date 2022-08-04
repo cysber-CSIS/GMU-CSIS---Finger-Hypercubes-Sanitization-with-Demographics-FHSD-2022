@@ -14,8 +14,11 @@ In this data collection, each finger hyperube at an instance is collected three 
 
 <p align="center">
 Before Hand Sanitization
+  
 <img src="https://user-images.githubusercontent.com/110630365/182932416-b87d0b0e-9f8b-4c9d-9e74-1b08bfbb0ddd.png" width=800>
+  
 After Hand Sanitization
+  
 <img src="https://user-images.githubusercontent.com/110630365/182932494-3a971ce8-2512-46ed-a1f8-de5b2bd92ea2.png" width=800>
 </p>
 
