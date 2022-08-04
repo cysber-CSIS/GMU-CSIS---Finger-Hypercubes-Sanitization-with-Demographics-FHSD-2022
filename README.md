@@ -40,7 +40,9 @@ Download and Copyright:
 </h3>
 
 The database will be made avilable to the researchers once they sign and send the license agreement to the authors. 
+
 Sai Sumanth Sriram: ssriram2@gmu.edu
+
 Dr.Emanuela Marasco: emarasco@gmu.edu
 
 All the the rights of the FHSD are reserved and the commercial use of this database is dtrictly prohibited. Question regarding this database should be directed to the authors. Any research proceedings using this database must be acknowledged.
